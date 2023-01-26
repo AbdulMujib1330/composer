@@ -1,0 +1,17 @@
+{
+    "name": "abdulmujib1330/mujibcomposer",
+    "description": "Learning",
+    "type": "project",
+    "authors": [
+      {
+        "name": "Mujib",
+        "email": "amujib@gmail.com"
+      }  
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "dompdf/dompdf": "^2.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
