@@ -1,0 +1,11 @@
+{
+    "name": "learning/mujib",
+    "description": "learning",
+    "type": "project",
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "dompdf/dompdf": "^2.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
